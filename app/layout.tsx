@@ -2,9 +2,9 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  title: 'AutoShine Detailing',
+  description:
+    'Professional car detailing. Transform your vehicle with premium interior and exterior services.',
 }
 
 export default function RootLayout({
